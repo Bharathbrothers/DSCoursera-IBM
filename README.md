@@ -5,13 +5,13 @@ material and assignments taken from the course
 
 [da-1](da-1.html)
 
-[da-1](da-2.html)
+[da-2](da-2.html)
 
-[da-1](da-3.html)
+[da-3](da-3.html)
 
-[da-1](da-4.html)
+[da-4](da-4.html)
 
-[da-1](da-5.html)
+[da-5](da-5.html)
 
 ## Data Visulaization:
 
@@ -27,6 +27,20 @@ material and assignments taken from the course
 
 ## Machine Learning:
 
-[da-1](da-1.html)
+[ml-1](ml-1.html)
+
+[ml-2](ml-2.html)
+
+[ml-3](ml-3.html)
+
+[ml-4](ml-4.html)
 
 
+
+[py-1](py-1.html)
+
+## data modeling
+
+[dn-1](dm-1.html)
+
+[dn-2](dm-2.html)
