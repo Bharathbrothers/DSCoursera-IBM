@@ -1,2 +1,2 @@
 # DSCoursera-IBM
-material and assignments take from the course
+material and assignments taken from the course
