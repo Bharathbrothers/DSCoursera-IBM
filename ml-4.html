@@ -13187,7 +13187,7 @@ Dataset acquired from <a href="http://grouplens.org/datasets/movielens/">GroupLe
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
+<div class="prompt input_prompt">In&nbsp;[2]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="o">!</span>wget -O moviedataset.zip https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/ML0101ENv3/labs/moviedataset.zip
@@ -13196,6 +13196,41 @@ Dataset acquired from <a href="http://grouplens.org/datasets/movielens/">GroupLe
 </pre></div>
 
     </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+    <div class="prompt"></div>
+
+
+<div class="output_subarea output_stream output_stdout output_text">
+<pre>--2019-04-03 15:28:08--  https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/ML0101ENv3/labs/moviedataset.zip
+Resolving s3-api.us-geo.objectstorage.softlayer.net (s3-api.us-geo.objectstorage.softlayer.net)... 67.228.254.193
+Connecting to s3-api.us-geo.objectstorage.softlayer.net (s3-api.us-geo.objectstorage.softlayer.net)|67.228.254.193|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 160301210 (153M) [application/zip]
+Saving to: ‘moviedataset.zip’
+
+moviedataset.zip    100%[=====================&gt;] 152.88M  35.4MB/s   in 4.4s   
+
+2019-04-03 15:28:12 (34.9 MB/s) - ‘moviedataset.zip’ saved [160301210/160301210]
+
+unziping ...
+Archive:  moviedataset.zip
+  inflating: links.csv               
+  inflating: movies.csv              
+  inflating: ratings.csv             
+  inflating: README.txt              
+  inflating: tags.csv                
+</pre>
+</div>
+</div>
+
 </div>
 </div>
 
@@ -13226,7 +13261,7 @@ Dataset acquired from <a href="http://grouplens.org/datasets/movielens/">GroupLe
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
+<div class="prompt input_prompt">In&nbsp;[1]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#Dataframe manipulation library</span>
