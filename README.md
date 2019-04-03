@@ -13,7 +13,7 @@ material and assignments taken from the course
 
 [da-5](da-5.html)
 
-## Data Visulaization:
+## Data Visulaization:(display problem)
 
 [da-1](dv-1.html)
 
